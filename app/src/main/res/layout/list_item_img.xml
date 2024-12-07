@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Imagen de muestra utilizada solo en el editor, no en tiempo de ejecución -->
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/local_img"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:src="@tools:sample/backgrounds/scenic" />
